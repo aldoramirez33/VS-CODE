@@ -1,0 +1,21 @@
+.icono_vscode{
+    font-size: 5rem;
+}
+
+
+.info{
+background: rgba(128, 128, 128, 0.603);
+padding: 8px;
+width: 60%;
+border-radius: 20px;
+}
+
+.icono{
+    font-size: 3rem; 
+    color: black;
+}
+
+.icono_chico{
+    font-size: 1.5rem;
+}
+
